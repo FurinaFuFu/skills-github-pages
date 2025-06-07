@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog!
+---
 
 # Heading level
 
@@ -18,4 +19,3 @@ I just love **bold text**.
 2. Second item
 3. Third item
 4. Fourth item
----
